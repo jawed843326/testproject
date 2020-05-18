@@ -6,6 +6,7 @@ public class PrintHelloClass {
 		// TODO Auto-generated method stub
 
 		System.out.println("Hello, This is your first project hosted on git repo.");
+		System.out.println("Hello world");
 	}
 
 }
